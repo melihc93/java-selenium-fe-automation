@@ -10,3 +10,6 @@
 # Maven Target #
 
 target/
+
+# test output file #
+output.txt
